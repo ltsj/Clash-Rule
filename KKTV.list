@@ -1,5 +1,7 @@
-# 内容：KKTV
-DOMAIN-SUFFIX,kkid.kkbox.com
+# 内容：KKTV＆KKBOX
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
 USER-AGENT,KKTV*
 USER-AGENT,com.kktv.ios.kktv*
 DOMAIN,kktv-theater.kk.stream
