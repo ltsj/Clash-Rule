@@ -21,12 +21,6 @@ DOMAIN,steamuserimages-a.akamaihd.net
 # DOMAIN-SUFFIX,steamstat.us
 # DOMAIN-SUFFIX,steamusercontent.com
 # DOMAIN-SUFFIX,cloudflare.steamstatic.com
-# IPv6
-IP-CIDR6,::/0
-# 学术
-DOMAIN-SUFFIX,sae.org
-DOMAIN,journals.sagepub.com
-DOMAIN,sage.cnpereading.com
 #直连进程
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,TXPlatform.exe
@@ -34,21 +28,3 @@ PROCESS-NAME,WeChat.exe
 PROCESS-NAME,WeChatApp.exe
 PROCESS-NAME,WeChatWeb.exe
 PROCESS-NAME,QQScLauncher.exe
-# 煎蛋
-DOMAIN-SUFFIX,jandan.net
-# 其乐社区
-DOMAIN-SUFFIX,keylol.com
-# 拷贝漫画
-DOMAIN,mirror77.mangafunc.xyz
-DOMAIN,mirror277.mangafunc.xyz
-DOMAIN,hi77.mangafuna.xyz
-# bilibili
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-# 轻书架
-DOMAIN-SUFFIX,acgdmzy.com
-# 小众软件
-DOMAIN-SUFFIX,appinn.com
-# PT之友
-DOMAIN-SUFFIX,pterclub.com
-# 蜜柑计划
-DOMAIN,mikanani.me
