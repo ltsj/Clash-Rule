@@ -27,6 +27,9 @@ PROCESS-NAME,TXPlatform.exe
 #wegame
 PROCESS-NAME,pallas.exe
 PROCESS-NAME,rail.exe
+PROCESS-NAME,LeagueClient.exe
+PROCESS-NAME,LeagueClientUx.exe
+PROCESS-NAME,LeagueClientUxRender.exe
 PROCESS-NAME,WeChat.exe
 PROCESS-NAME,WeChatApp.exe
 PROCESS-NAME,WeChatWeb.exe
