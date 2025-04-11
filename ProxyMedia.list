@@ -1,6 +1,11 @@
 # 内容：国外媒体列表
 # 更新：2025-03-29 17:35:36
 # 数量：406条
+# IQ
+DOMAIN,cache.video.iqiyi.com
+DOMAIN-SUFFIX,iq.com
+# MYVIDEO
+DOMAIN-SUFFIX,myvideo.net.tw
 # CATCHPLAY+
 DOMAIN-SUFFIX,catchplay.com
 # CRUNCHYROLL
