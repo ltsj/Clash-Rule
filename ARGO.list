@@ -1,6 +1,8 @@
 # 内容：argotunnel
 DOMAIN,region1.v2.argotunnel.com
 DOMAIN,region2.v2.argotunnel.com
-DOMAIN-SUFFIX,argotunnel.com
-DOMAIN-SUFFIX,h2.cftunnel.com
+DOMAIN-SUFFIX,argotunnel
+DOMAIN-SUFFIX,cftunnel
+DOMAIN,h2.cftunnel.com
+DOMAIN,quic.cftunnel.com
 
